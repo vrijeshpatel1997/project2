@@ -1,0 +1,80 @@
+.logo{
+
+
+    background-color: none;
+}
+
+
+body {
+
+
+    background-image: url(pexels-maxyne-barcel-10402282\ 1.png);
+    
+    background-size: cover;
+
+    
+}
+
+
+.list{
+
+    display: flex;
+    list-style: none;
+    color: #ffb005;
+    font-size: 25px;
+    position: absolute;
+    top: 15px;
+    left: 35%;
+    
+    
+}
+
+.list-item{
+
+    padding-left: 25px;
+}
+
+.button-small{
+
+
+    background-color: rgba(245, 14, 34, 0.973);
+    color: white;
+    position: absolute;
+    top: 25px;
+    left: 75%;
+    font-size: 25px;
+    border: none ;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+ 
+}
+
+
+.hero{
+
+    text-align: center;
+  
+}
+
+.hero-heading{
+    padding-top: 15%;
+    color: #ffb005;
+    font-size: 150px;
+}
+
+.button-large{
+
+    background-color: rgba(245, 14, 34, 0.973);
+    color: white;
+    border: none ;
+    margin-top: 15px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    font-size: 50px;
+
+
+}
